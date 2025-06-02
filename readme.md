@@ -1,10 +1,15 @@
 # 🍭 Configs
 
+## Shell
+
+- **zsh** with Oh My Zsh
+- 
+
 ## Terminal
 
 - **kitty** as it is cross-platform
 
-## Editor
+## Text Editor
 
 - **Nano** for quick edits
 - **Neovim** for crazy use-cases if I have time to learn it
