@@ -3,7 +3,6 @@
 ## Shell
 
 - **zsh** with Oh My Zsh
-- 
 
 ## Terminal
 
